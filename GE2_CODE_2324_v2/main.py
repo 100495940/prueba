@@ -11,8 +11,6 @@ def main():
     print(strRes)
     print("CreditCard: " + res.CREDITCARD)
     print(res.LOCALIZER)
-    print("probando, probando probando")
-    print("blank lines")
 
 if __name__ == "__main__":
     main()
