@@ -11,6 +11,8 @@ def main():
     print(strRes)
     print("CreditCard: " + res.CREDITCARD)
     print(res.LOCALIZER)
+    print("esta si que si es la última")
+
 
 if __name__ == "__main__":
     main()
